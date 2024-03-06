@@ -32,6 +32,25 @@ Lors de nos analyses, nous avons souligné un pic de diffusion en 2017. Les rais
 ## France 3 Alsace :
 
 Par ailleurs, nous avons souligné un pic de diffusion sur la chaîne France Alsace. Pour répondre à ça, nous avons formulé deux questions,  quel est le premier public de cette chaîne.
+
+Le public visé, La chaîne France 3 Alsace vise le public de la région d'Alsace, en France. En tant qu'antenne régionale du groupe audiovisuel public France Télévisions, France 3 Alsace propose des programmes et des actualités spécifiques à la ville de Strasbourg et à sa région. Son public cible est donc principalement constitué des habitants de l'Alsace intéressés par les informations locales et les émissions régionales diffusées par cette chaîne.
+>> https://www.jds.fr/television-127_T https://france3-regions.francetvinfo.fr/grand-est/direct/alsace
+
+
+En effet, la chaîne France 3 Alsace se distingue par sa couverture étendue de la médecine douce, notamment de l'acupuncture, en raison de l'intérêt régional pour les pratiques médicales alternatives et complémentaires. Des professionnels de la santé locaux ont soutenu ces approches, influençant probablement la programmation de la chaîne. La montée en popularité de l'acupuncture en France et son intégration croissante dans le système de santé ont également contribué à cet intérêt. De plus, l'émergence de plateformes en ligne facilitant l'accès aux praticiens de médecines douces en Alsace et Lorraine reflète un intérêt grandissant pour ces pratiques, renforçant ainsi la présence de sujets liés à la médecine douce sur France 3 Alsace.
+>>> https://www.perplexity.ai/search/Loi-Ma-Sant-QVhEo8ArQjKiHOHMl7Z1zg
+>>> https://france3-regions.francetvinfo.fr/grand-est/alsace/cancerologue-il-se-bat-pour-soigner-les-malades-grace-aux-medecines-douces-2852303.html
+>>> https://www.cairn.info/revue-gouvernement-et-action-publique-2019-3-page-59.htm
+
+
+
+
+
+
+
+
+
+
 <iframe src='https://flo.uri.sh/story/2281332/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe><div style='width:100%!;margin-top:4px!important;text-align:right!important;'><a class='flourish-credit' href='https://public.flourish.studio/story/2281332/?utm_source=embed&utm_campaign=story/2281332' target='_top' style='text-decoration:none!important'><img alt='Made with Flourish' src='https://public.flourish.studio/resources/made_with_flourish.svg' style='width:105px!important;height:16px!important;border:none!important;margin:0!important;'> </a></div>
 
 <iframe src='https://flo.uri.sh/visualisation/17045471/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe><div style='width:100%!;margin-top:4px!important;text-align:right!important;'><a class='flourish-credit' href='https://public.flourish.studio/visualisation/17045471/?utm_source=embed&utm_campaign=visualisation/17045471' target='_top' style='text-decoration:none!important'><img alt='Made with Flourish' src='https://public.flourish.studio/resources/made_with_flourish.svg' style='width:105px!important;height:16px!important;border:none!important;margin:0!important;'> </a></div>
