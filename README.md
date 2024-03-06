@@ -59,3 +59,9 @@ En effet, la chaîne France 3 Alsace se distingue par sa couverture étendue de 
 
 <iframe src='https://flo.uri.sh/visualisation/17031918/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe><div style='width:100%!;margin-top:4px!important;text-align:right!important;'><a class='flourish-credit' href='https://public.flourish.studio/visualisation/17031918/?utm_source=embed&utm_campaign=visualisation/17031918' target='_top' style='text-decoration:none!important'><img alt='Made with Flourish' src='https://public.flourish.studio/resources/made_with_flourish.svg' style='width:105px!important;height:16px!important;border:none!important;margin:0!important;'> </a></div> 
 
+# Corona Virus et les médecines Alternatives : 
+
+L'argument avancé lors du salon de Marseille, relayé par France 3, met en avant le rôle des médecines alternatives, telles que l'utilisation d'huiles essentielles, dans la prévention contre les microbes, les bactéries et les virus. Plus précisément, l'exemple cité est celui des huiles essentielles, qui sont présentées comme ayant la capacité de renforcer l'immunité de l'organisme.
+
+Les partisans de cette approche affirment que l'usage régulier d'huiles essentielles et de médecines alternatives en générale  peut contribuer à renforcer les défenses naturelles du corps, le rendant ainsi moins susceptible d'être infecté par des agents pathogènes tels que les virus, y compris le coronavirus. Cette perspective repose sur l'idée que certaines huiles essentielles possèdent des propriétés antimicrobiennes et antivirales qui peuvent aider à protéger contre les infections.
+
