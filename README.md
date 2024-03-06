@@ -27,6 +27,6 @@ Lors de nos analyses, nous avons souligné un pic de diffusion en 2017. Les rais
 - **Développement des Centres de Santé :** Augmentation du nombre de centres de santé proposant des services de médecine douce, offrant une gamme de pratiques telles que l'acupuncture, la naturopathie, etc.
 - **Études et Recherches :** Réalisation de plusieurs études cliniques et recherches sur l'efficacité des médecines douces, dont l'acupuncture et l'homéopathie.
 
-France 3 Alsace :
+## France 3 Alsace :
 
 Par ailleurs, nous avons souligné un pic de diffusion sur la chaîne France Alsace. Pour répondre à ça, nous avons formulé deux questions,  quel est le premier public de cette chaîne. 
