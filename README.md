@@ -1,6 +1,32 @@
-# M-decines-Alternatives
-## Introduction 
-Bienvenue dans notre projet dédié à la médecine douce ! Dans un monde où la quête de bien-être et de santé intégrale est devenue une priorité, la médecine douce émerge comme une alternative prometteuse aux approches conventionnelles de la santé. En mettant l'accent sur des méthodes naturelles, holistiques et souvent non invasives, la médecine douce offre une perspective unique sur la santé, plaçant l'individu au centre de son processus de guérison.
-Au cœur de notre projet réside une question essentielle : comment la médecine douce peut-elle enrichir notre compréhension de la santé et compléter les traitements conventionnels dans un contexte médical moderne ? Cette question nous invite à explorer les multiples facettes de la médecine douce, des pratiques ancestrales telles que l'acupuncture et l'herboristerie aux approches contemporaines comme la méditation et la chiropraxie.
-Alors que la médecine douce gagne en popularité et en reconnaissance, elle soulève également des interrogations sur son efficacité, sa sécurité et son intégration dans le système de santé conventionnel. Comment pouvons-nous évaluer l'efficacité des traitements de médecine douce de manière rigoureuse et objective ? Comment pouvons-nous garantir la sécurité des patients et fournir des soins de qualité dans le cadre de ces pratiques alternatives ?
-À travers ce projet, nous chercherons à explorer les réponses à ces questions en examinant les bases théoriques, les applications pratiques et les défis inhérents à la médecine douce. Notre objectif est d'offrir un regard éclairé sur cette approche médicale en constante évolution, en mettant en lumière ses avantages, ses limites et son potentiel à enrichir notre compréhension globale de la santé et du bien-être. Rejoignez-nous dans cette exploration fascinante de la médecine douce et découvrez comment elle peut contribuer à promouvoir une santé optimale et un équilibre holistique dans nos vies.
+# Introduction
+
+Les médecines alternatives, regroupant une gamme diversifiée de pratiques thérapeutiques en dehors des normes médicales conventionnelles, ont captivé l'attention du public et des médias. De l'acupuncture à l'homéopathie, ces approches offrent des solutions holistiques pour traiter une variété de maux physiques et mentaux. Cependant, la représentation de ces médecines dans les médias suscite des interrogations quant à leur perception et leur intégration dans la société. Comment les médecines alternatives sont-elles présentées et discutées dans les médias, et quel impact cela a-t-il sur leur acceptation, leur usage et leur régulation ?
+
+Cette problématique soulève l'enjeu crucial de comprendre comment les médias façonnent la perception et la légitimité des médecines alternatives. En analysant les discours médiatiques, nous pourrons mieux saisir les tendances, les biais et les enjeux entourant leur représentation dans l'espace médiatique contemporain. Cette exploration nous permettra d'éclairer les interactions complexes entre les médecines alternatives et les médias, et d'appréhender leur impact sur la santé publique et les choix thérapeutiques des individus.
+
+## Exploration des Médecines Alternatives à travers le Prisme Médiatique : Diversité, Promotion et Controverse
+
+- **Diversité des pratiques :** Les vidéos montrent une diversité de pratiques de médecine alternative telles que le magnétisme, l'homéopathie, l'hypnose et l'ostéopathie. Ces différentes approches sont présentées dans les médias, démontrant la variété des options disponibles pour les patients.
+
+- **Promotion et Valorisation :** Certaines vidéos mettent en avant les bénéfices perçus des médecines alternatives, avec des témoignages de patients et des cas de succès. Ces reportages peuvent contribuer à promouvoir ces pratiques en les présentant comme des solutions efficaces et accessibles.
+
+- **Controverse et Critique :** D'autres vidéos soulèvent des questions sur l'efficacité, l'éthique et la sécurité des médecines alternatives. Par exemple, le déremboursement de l'homéopathie et les cas de condamnation de praticiens pour abus mettent en lumière les controverses entourant ces pratiques.
+
+- **Représentation Médiatique :** Les médias jouent un rôle crucial dans la représentation et la diffusion des médecines alternatives. En montrant différents aspects de ces pratiques, les médias contribuent à façonner l'opinion publique et à influencer les politiques de santé.
+
+- **Impact sur l'Opinion Publique :** La manière dont les médecines alternatives sont présentées dans les médias peut influencer l'opinion publique et les décisions politiques. Par exemple, le débat sur le déremboursement de l'homéopathie reflète les discussions en cours dans la société et les médias sur l'efficacité de cette pratique.
+
+Ce panorama des médecines alternatives à travers le prisme médiatique met en lumière l'importance de comprendre comment ces pratiques sont présentées et perçues dans l'espace public. La diversité des approches médicales alternatives, leur promotion dans les médias et les débats autour de leur efficacité soulignent l'ampleur de l'intérêt et des préoccupations entourant ce domaine. En examinant de près la manière dont les médias abordent ces questions, il est possible de mieux comprendre comment ces pratiques sont intégrées dans le paysage de la santé contemporain et comment elles influencent l'opinion publique et les politiques de santé. Ainsi, cette exploration offre un éclairage précieux sur les défis et les opportunités liés à la reconnaissance et à l'intégration des médecines alternatives dans le système de santé moderne.
+
+## Pic en 2017
+
+Lors de nos analyses, nous avons souligné un pic de diffusion en 2017. Les raisons de ce pic pourraient être les suivantes: 
+
+- **Loi "Ma Santé 2022" :** Lancement du plan gouvernemental visant à promouvoir les médecines complémentaires et alternatives, dont la médecine douce, pour améliorer l'accès aux soins de santé.
+- **Reconnaissance de l'Acupuncture :** Publication d'un avis par l'Académie nationale de Médecine reconnaissant l'acupuncture comme une médecine complémentaire valide en France.
+- **Développement des Centres de Santé :** Augmentation du nombre de centres de santé proposant des services de médecine douce, offrant une gamme de pratiques telles que l'acupuncture, la naturopathie, etc.
+- **Études et Recherches :** Réalisation de plusieurs études cliniques et recherches sur l'efficacité des médecines douces, dont l'acupuncture et l'homéopathie.
+
+France 3 Alsace :
+
+Par ailleurs, nous avons souligné un pic de diffusion sur la chaîne France Alsace. Pour répondre à ça, nous avons formulé deux questions,  quel est le premier public de cette chaîne. 
