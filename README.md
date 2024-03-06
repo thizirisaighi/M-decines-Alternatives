@@ -45,7 +45,7 @@ En effet, la chaîne France 3 Alsace se distingue par sa couverture étendue de 
 
 
 
-![pics d'audiances des activités](lien_vers_votre_fichier.svg)
+![pics d'audiances des activités] (https://github.com/thizirisaighi/Medecines-Alternatives/blob/main/Visualisation.svg)
 
 
 
