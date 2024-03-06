@@ -1,3 +1,5 @@
+# Médecines Alternatives sous les Projecteurs : Évolution, Perceptions et Cadre Réglementaire (1965-2023)
+
 # Introduction
 
 Les médecines alternatives, regroupant une gamme diversifiée de pratiques thérapeutiques en dehors des normes médicales conventionnelles, ont captivé l'attention du public et des médias. De l'acupuncture à l'homéopathie, ces approches offrent des solutions holistiques pour traiter une variété de maux physiques et mentaux. Cependant, la représentation de ces médecines dans les médias suscite des interrogations quant à leur perception et leur intégration dans la société. Comment les médecines alternatives sont-elles présentées et discutées dans les médias, et quel impact cela a-t-il sur leur acceptation, leur usage et leur régulation ?
