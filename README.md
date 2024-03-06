@@ -65,3 +65,4 @@ L'argument avancé lors du salon de Marseille, relayé par France 3, met en avan
 
 Les partisans de cette approche affirment que l'usage régulier d'huiles essentielles et de médecines alternatives en générale  peut contribuer à renforcer les défenses naturelles du corps, le rendant ainsi moins susceptible d'être infecté par des agents pathogènes tels que les virus, y compris le coronavirus. Cette perspective repose sur l'idée que certaines huiles essentielles possèdent des propriétés antimicrobiennes et antivirales qui peuvent aider à protéger contre les infections.
 
+
