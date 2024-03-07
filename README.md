@@ -22,12 +22,22 @@ Ce panorama des médecines alternatives à travers le prisme médiatique met en 
 
 ## Pic en 2017
 
-Lors de nos analyses, nous avons souligné un pic de diffusion en 2017. Les raisons de ce pic pourraient être les suivantes: 
+Pic en 2017 : 
 
-- **Loi "Ma Santé 2022" :** Lancement du plan gouvernemental visant à promouvoir les médecines complémentaires et alternatives, dont la médecine douce, pour améliorer l'accès aux soins de santé.
-- **Reconnaissance de l'Acupuncture :** Publication d'un avis par l'Académie nationale de Médecine reconnaissant l'acupuncture comme une médecine complémentaire valide en France.
-- **Développement des Centres de Santé :** Augmentation du nombre de centres de santé proposant des services de médecine douce, offrant une gamme de pratiques telles que l'acupuncture, la naturopathie, etc.
-- **Études et Recherches :** Réalisation de plusieurs études cliniques et recherches sur l'efficacité des médecines douces, dont l'acupuncture et l'homéopathie.
+**Lors de nos analyses, nous avons souligné un pic de diffusion en 2017.** 
+**Les  hypothèses sur ce pic sont les suivantes ;**
+1. L'intérêt croissant pour les médecines alternatives en France pourrait être attribuable à une recherche croissante de solutions de santé naturelles et holistiques.
+2. L'augmentation du nombre de professionnels de la santé intégrant des pratiques alternatives dans leur approche thérapeutique pourrait répondre à une demande croissante de soins personnalisés et complémentaires.
+ **Les raisons pourraient donc être les suivantes**
+- Loi "Ma Santé 2022" : Lancement du plan gouvernemental visant à promouvoir les médecines complémentaires et alternatives, dont la médecine douce, pour améliorer l'accès aux soins de santé.
+- Une étude de prévalence a révélé une augmentation du nombre de médecins généralistes ayant une formation complémentaire aux médecines alternatives et complémentaires, avec une proportion significative pratiquant l'homéopathie, l'ostéopathie, l'acupuncture et la mésothérapie
+ -Des chercheurs de l'université Yale ont souligné les risques associés à l'utilisation exclusive de remèdes alternatifs pour traiter le cancer. Leur étude a montré que les patients optant uniquement pour des médecines alternatives avaient un risque de décès plus élevé que ceux suivant des traitements conventionnels.
+
+>> Sources : 
+>> https://www.radiofrance.fr/franceculture/podcasts/la-science-cqfd/medecines-alternatives-mieux-vaut-prevenir-que-guerir-3582795
+>> https://www.cairn.info/revue-hegel-2017-1-page-93.htm
+>> https://www.lepoint.fr/sante/cancer-les-medecines-alternatives-augmentent-le-risque-de-deces-18-08-2017-2150887_40.php
+
 
 ## France 3 Alsace :
 
