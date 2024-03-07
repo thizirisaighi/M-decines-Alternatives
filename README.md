@@ -41,14 +41,14 @@ Pic en 2017 :
 
 ## France 3 Alsace :
 
-Par ailleurs, nous avons souligné un pic de diffusion sur la chaîne France Alsace. Pour répondre à ça, nous avons formulé deux questions,  quel est le premier public de cette chaîne.
+Par ailleurs, nos analyses ont démontré que la chaine France 3 ALsace arrive en tête des chaines qui diffusent des programmes sur la médecine alternative . Nous avons donc, formulé des hypothèse pour répondre à ça : 
+1. L'intérêt croissant du public alsacien pour les médecines alternatives a probablement incité France 3 Alsace à proposer une couverture étendue de ces sujets pour répondre à cette demande locale.
+2. L'intégration progressive de l'acupuncture dans le système de santé français a pu motiver la chaîne à mettre en avant ces pratiques pour informer et sensibiliser le public sur ces options thérapeutiques.
+-**Intérêt régional pour les pratiques médicales alternatives**: L'engouement des habitants de l'Alsace pour les médecines alternatives et complémentaires a pu influencer la chaîne à couvrir davantage ces sujets pour répondre à cette demande locale.
+-**Intégration croissante de l'acupuncture dans le système de santé françai**: La montée en popularité de l'acupuncture en France et son intégration progressive dans les pratiques médicales conventionnelles ont probablement motivé France 3 Alsace à mettre en avant ces approches.
+-**Émergence de plateformes en ligne facilitant l'accès aux praticiens de médecines douces** : Le développement de plateformes en ligne permettant un accès plus facile aux praticiens de médecines douces en Alsace et Lorraine a pu renforcer l'intérêt pour ces pratiques, influençant ainsi la programmation de la chaîne.
 
-Le public visé, La chaîne France 3 Alsace vise le public de la région d'Alsace, en France. En tant qu'antenne régionale du groupe audiovisuel public France Télévisions, France 3 Alsace propose des programmes et des actualités spécifiques à la ville de Strasbourg et à sa région. Son public cible est donc principalement constitué des habitants de l'Alsace intéressés par les informations locales et les émissions régionales diffusées par cette chaîne.
->> https://www.jds.fr/television-127_T https://france3-regions.francetvinfo.fr/grand-est/direct/alsace
-
-
-En effet, la chaîne France 3 Alsace se distingue par sa couverture étendue de la médecine douce, notamment de l'acupuncture, en raison de l'intérêt régional pour les pratiques médicales alternatives et complémentaires. Des professionnels de la santé locaux ont soutenu ces approches, influençant probablement la programmation de la chaîne. La montée en popularité de l'acupuncture en France et son intégration croissante dans le système de santé ont également contribué à cet intérêt. De plus, l'émergence de plateformes en ligne facilitant l'accès aux praticiens de médecines douces en Alsace et Lorraine reflète un intérêt grandissant pour ces pratiques, renforçant ainsi la présence de sujets liés à la médecine douce sur France 3 Alsace.
-
+>> Sources: https://www.jds.fr/television-127_T https://france3-regions.francetvinfo.fr/grand-est/direct/alsace
 >>> https://france3-regions.francetvinfo.fr/grand-est/alsace/cancerologue-il-se-bat-pour-soigner-les-malades-grace-aux-medecines-douces-2852303.html
 >>> https://www.cairn.info/revue-gouvernement-et-action-publique-2019-3-page-59.htm
 
