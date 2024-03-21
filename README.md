@@ -76,7 +76,7 @@ On peut souligner également à travers ce graphique, que le canal de diffusion 
 
 # Analyse visualisation des pics d’audience de diffusion d’émission tout au long de la journée
 
-![image]()
+![image](Visualisation.svg)
 
 Le graphique permet de repérer facilement les moments où les émissions traitant de la médecine alternative sont le plus souvent diffusées tout au long de la journée. Chaque point représente une émission alignée à sa chaîne de télévision représentée à la verticale. Les points plus gros représentent les émissions plus longues. Les couleurs indiquent le type d'émission (se référer à la légende).
 
