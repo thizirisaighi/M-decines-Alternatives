@@ -29,11 +29,11 @@ Notre premier processus de filtrage a consisté à trier les descripteurs en uti
 
 Ce panorama des médecines alternatives à travers le prisme médiatique met en lumière l'importance de comprendre comment ces pratiques sont présentées et perçues dans l'espace public. La diversité des approches médicales alternatives, leur promotion dans les médias et les débats autour de leur efficacité soulignent l'ampleur de l'intérêt et des préoccupations entourant ce domaine. En examinant de près la manière dont les médias abordent ces questions, il est possible de mieux comprendre comment ces pratiques sont intégrées dans le paysage de la santé contemporain et comment elles influencent l'opinion publique et les politiques de santé. Ainsi, cette exploration offre un éclairage précieux sur les défis et les opportunités liés à la reconnaissance et à l'intégration des médecines alternatives dans le système de santé moderne.
 
+## Évolution et médiatisation de la médecine alternative : Analyse du pic de 2017 et comparaison des discours médiatiques
 ## Pic en 2017
 
-Pic en 2017 : 
+**La médecine alternative a connu plusieurs évolutions au fil des années. En effet, les recherches que nous avons menées nous ont permis d'observer les pics d'évolution les plus marquants dans la sphère médiatique. Parmi ceux-ci, l'année 2017 se démarque particulièrement. Nous avons donc entrepris des investigations dans et hors corpus, afin de comprendre les raisons de cette médiatisation plus importante à cette période. Bien entendu, plusieurs hypothèses ont été émises pour expliquer ce phénomène.**
 
-**Lors de nos analyses, nous avons souligné un pic de diffusion en 2017.** 
 **Les  hypothèses sur ce pic sont les suivantes ;**
 1. L'intérêt croissant pour les médecines alternatives en France pourrait être attribuable à une recherche croissante de solutions de santé naturelles et holistiques.
 2. L'augmentation du nombre de professionnels de la santé intégrant des pratiques alternatives dans leur approche thérapeutique pourrait répondre à une demande croissante de soins personnalisés et complémentaires.
