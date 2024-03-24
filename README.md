@@ -57,7 +57,7 @@ Une question essentielle qui a émergé était celle concernant la nature du con
 ## Comparaison des discours médiatiques avant et après les années 2000
 
 <div style="display:flex;">
-    <img src="https://github.com/thizirisaighi/Medecines-Alternatives/blob/main/afcf_col_2.png?raw=true" alt="Texte alternatif 1" style="width:50%;">
+    <img src="https://github.com/thizirisaighi/Medecines-Alternatives/blob/main/afcf_col_2.png?raw=true" alt="Texte alternatif 1" style="width:40%;">
     <img src="https://github.com/thizirisaighi/Medecines-Alternatives/blob/main/graph_afc_2.png?raw=true" alt="Texte alternatif 2" style="width:50%;">
 </div>
 
