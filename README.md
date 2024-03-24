@@ -50,10 +50,27 @@ La médecine alternative a connu plusieurs évolutions au fil des années. En ef
 >> https://www.cairn.info/revue-hegel-2017-1-page-93.htm
 >> https://www.lepoint.fr/sante/cancer-les-medecines-alternatives-augmentent-le-risque-de-deces-18-08-2017-2150887_40.php
 
+Nous avons également observé, à travers ce graphique deux grands pics, avant et après les années 2000, représentant une évolution des discussions autour de la médecine alternative. Au début des années 1900, cet aspect de la médecine suscitait un intérêt limité dans les médias, avec peu de contenu lui étant spécifiquement consacré. Cependant, au fur et à mesure que les décennies ont avancé, l'intérêt pour cette branche non conventionnelle de la médecine a progressivement augmenté.
+
+Une question essentielle qui a émergé était celle concernant la nature du contenu diffusé par les médias en général sur la médecine alternative : s'agissait-il de promotion, de critique, ou d'une approche plus neutre ?
+
+## Comparaison des discours médiatiques avant et après les années 2000
+
+## Avant les années 2000
+
+Au cours de notre analyse, nous avons constaté une évolution du discours autour de la médecine alternative, ainsi que des débats concernant sa légitimité en termes de remboursement. Dans les années 1900, la médecine alternative était perçue comme un moyen potentiel de soulager économiquement la sécurité sociale. En effet, certains la considéraient comme une opportunité de réduire les coûts associés à l'achat de médicaments, ce qui aurait entraîné une baisse des dépenses pour la sécurité sociale.
+Dans un reportage de l'époque, un praticien chiropratique affirmait que "la sécurité sociale croulait alors (en 1971) sous le poids des coûts des médicaments", et que les praticiens de la médecine alternative venaient "à point nommé pour la soulager". De plus, les discours de cette période insistaient sur les bienfaits de la médecine alternative, la présentant comme complémentaire à la médecine traditionnelle. Son développement était considéré comme une opportunité de soulager les patients souffrant de maladies que la médecine conventionnelle ne parvenait pas à guérir, tout en réduisant la dépendance aux médicaments. Des médias tels que TF1 et France 3 Alsace ont ainsi relayé les succès et les avantages de la médecine alternative.
+
+## Après les années 2000
+
+À partir des années 2000, on constate un changement de ton pour certains médias, tandis que d'autres maintiennent leur ligne éditoriale concernant la médecine alternative. Sur TF1, la perception de la médecine alternative a connu une détérioration. Le discours critique s'est développé, mettant en doute l'efficacité de cette approche et soulignant l'absence de preuves scientifiques à son soutien. De plus, l'absence de cadre réglementaire encadrant la médecine alternative a été soulignée. Dans un reportage, il a été mentionné que tout le monde pouvait se proclamer praticien dans ce domaine, que les formations étaient disponibles en ligne, et que ce secteur demeurait non réglementé.
+En revanche, France 3 Alsace a maintenu une ligne éditoriale similaire à celle des années 1900, en continuant de promouvoir la médecine alternative et en plaidant pour sa prise en charge et son remboursement. En 2021  durant le journal télévisé, la chaine régionale a encore mis en avant le taux de rétablissement de 70% des patients d'un centre de santé en seulement une semaine grâce à cette pratique. Ils ont également évoqué la bio cinématique comme une approche complémentaire à la kinésithérapie.
+
+Par ailleurs, nous nous sommes intéressés à la place de la médecine alternative au sein des médias en termes d’heure de diffusion et de jours de diffusion pour identifier le public cible et le degré d’importance accordé au sujet. 
 
 ## France 3 Alsace :
 
-Par ailleurs, nos analyses ont démontré que la chaine France 3 ALsace arrive en tête des chaines qui diffusent des programmes sur la médecine alternative . Nous avons donc, formulé des hypothèse pour répondre à ça : 
+Les analyses quantitatives réalisées nous ont permis d'observer que la chaine France 3 ALsace arrive en tête des chaines diffusant des programmes sur la médecine alternative. Nous avons donc, formulé des hypothèses pour répondre à cette observation : 
 1. L'intérêt croissant du public alsacien pour les médecines alternatives a probablement incité France 3 Alsace à proposer une couverture étendue de ces sujets pour répondre à cette demande locale.
 2. L'intégration progressive de l'acupuncture dans le système de santé français a pu motiver la chaîne à mettre en avant ces pratiques pour informer et sensibiliser le public sur ces options thérapeutiques.
 -**Intérêt régional pour les pratiques médicales alternatives**: L'engouement des habitants de l'Alsace pour les médecines alternatives et complémentaires a pu influencer la chaîne à couvrir davantage ces sujets pour répondre à cette demande locale.
