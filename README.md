@@ -56,6 +56,12 @@ Une question essentielle qui a émergé était celle concernant la nature du con
 
 ## Comparaison des discours médiatiques avant et après les années 2000
 
+<div style="display:flex;">
+    <img src="https://github.com/thizirisaighi/Medecines-Alternatives/blob/main/afcf_col_2.png?raw=true" alt="Texte alternatif 1" style="width:50%;">
+    <img src="https://github.com/thizirisaighi/Medecines-Alternatives/blob/main/graph_afc_2.png?raw=true" alt="Texte alternatif 2" style="width:50%;">
+</div>
+
+
 ## Avant les années 2000
 
 Au cours de notre analyse, nous avons constaté une évolution du discours autour de la médecine alternative, ainsi que des débats concernant sa légitimité en termes de remboursement. Dans les années 1900, la médecine alternative était perçue comme un moyen potentiel de soulager économiquement la sécurité sociale. En effet, certains la considéraient comme une opportunité de réduire les coûts associés à l'achat de médicaments, ce qui aurait entraîné une baisse des dépenses pour la sécurité sociale.
