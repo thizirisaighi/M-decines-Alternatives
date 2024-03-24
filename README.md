@@ -66,6 +66,8 @@ Dans un reportage de l'époque, un praticien chiropratique affirmait que "la sé
 À partir des années 2000, on constate un changement de ton pour certains médias, tandis que d'autres maintiennent leur ligne éditoriale concernant la médecine alternative. Sur TF1, la perception de la médecine alternative a connu une détérioration. Le discours critique s'est développé, mettant en doute l'efficacité de cette approche et soulignant l'absence de preuves scientifiques à son soutien. De plus, l'absence de cadre réglementaire encadrant la médecine alternative a été soulignée. Dans un reportage, il a été mentionné que tout le monde pouvait se proclamer praticien dans ce domaine, que les formations étaient disponibles en ligne, et que ce secteur demeurait non réglementé.
 En revanche, France 3 Alsace a maintenu une ligne éditoriale similaire à celle des années 1900, en continuant de promouvoir la médecine alternative et en plaidant pour sa prise en charge et son remboursement. En 2021  durant le journal télévisé, la chaine régionale a encore mis en avant le taux de rétablissement de 70% des patients d'un centre de santé en seulement une semaine grâce à cette pratique. Ils ont également évoqué la bio cinématique comme une approche complémentaire à la kinésithérapie.
 
+Cette comparaison met en lumière les divergences dans les perspectives médiatiques sur la médecine alternative, reflétant les débats et les évolutions socio-culturelles entourant cette pratique au fil du temps.
+
 Par ailleurs, nous nous sommes intéressés à la place de la médecine alternative au sein des médias en termes d’heure de diffusion et de jours de diffusion pour identifier le public cible et le degré d’importance accordé au sujet. 
 
 ## France 3 Alsace :
