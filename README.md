@@ -30,11 +30,12 @@ Notre premier processus de filtrage a consisté à trier les descripteurs en uti
 Ce panorama des médecines alternatives à travers le prisme médiatique met en lumière l'importance de comprendre comment ces pratiques sont présentées et perçues dans l'espace public. La diversité des approches médicales alternatives, leur promotion dans les médias et les débats autour de leur efficacité soulignent l'ampleur de l'intérêt et des préoccupations entourant ce domaine. En examinant de près la manière dont les médias abordent ces questions, il est possible de mieux comprendre comment ces pratiques sont intégrées dans le paysage de la santé contemporain et comment elles influencent l'opinion publique et les politiques de santé. Ainsi, cette exploration offre un éclairage précieux sur les défis et les opportunités liés à la reconnaissance et à l'intégration des médecines alternatives dans le système de santé moderne.
 
 ## Évolution et médiatisation de la médecine alternative : Analyse du pic de 2017 et comparaison des discours médiatiques
+
 ## Pic en 2017
 
 ![Nombre de notices publiées par années.svg](https://raw.githubusercontent.com/thizirisaighi/Medecines-Alternatives/10079e3cab7178e462b2ca653e0cf284e9cbb27e/Nombre%20de%20notices%20publi%C3%A9es%20par%20ann%C3%A9es.svg)
 
-**La médecine alternative a connu plusieurs évolutions au fil des années. En effet, les recherches que nous avons menées nous ont permis d'observer les pics d'évolution les plus marquants dans la sphère médiatique. Parmi ceux-ci, l'année 2017 se démarque particulièrement. Nous avons donc entrepris des investigations dans et hors corpus, afin de comprendre les raisons de cette médiatisation plus importante à cette période. Bien entendu, plusieurs hypothèses ont été émises pour expliquer ce phénomène.**
+La médecine alternative a connu plusieurs évolutions au fil des années. En effet, les recherches que nous avons menées nous ont permis d'observer les pics d'évolution les plus marquants dans la sphère médiatique. Parmi ceux-ci, l'année 2017 se démarque particulièrement. Nous avons donc entrepris des investigations dans et hors corpus, afin de comprendre les raisons de cette médiatisation plus importante à cette période. Bien entendu, plusieurs hypothèses ont été émises pour expliquer ce phénomène.
 
 **Les  hypothèses sur ce pic sont les suivantes ;**
 1. L'intérêt croissant pour les médecines alternatives en France pourrait être attribuable à une recherche croissante de solutions de santé naturelles et holistiques.
@@ -42,7 +43,7 @@ Ce panorama des médecines alternatives à travers le prisme médiatique met en 
  **Les raisons pourraient donc être les suivantes**
 - Loi "Ma Santé 2022" : Lancement du plan gouvernemental visant à promouvoir les médecines complémentaires et alternatives, dont la médecine douce, pour améliorer l'accès aux soins de santé.
 - Une étude de prévalence a révélé une augmentation du nombre de médecins généralistes ayant une formation complémentaire aux médecines alternatives et complémentaires, avec une proportion significative pratiquant l'homéopathie, l'ostéopathie, l'acupuncture et la mésothérapie
- -Des chercheurs de l'université Yale ont souligné les risques associés à l'utilisation exclusive de remèdes alternatifs pour traiter le cancer. Leur étude a montré que les patients optant uniquement pour des médecines alternatives avaient un risque de décès plus élevé que ceux suivant des traitements conventionnels.
+- Des chercheurs de l'université Yale ont souligné les risques associés à l'utilisation exclusive de remèdes alternatifs pour traiter le cancer. Leur étude a montré que les patients optant uniquement pour des médecines alternatives avaient un risque de décès plus élevé que ceux suivant des traitements conventionnels.
 
 >> Sources : 
 >> https://www.radiofrance.fr/franceculture/podcasts/la-science-cqfd/medecines-alternatives-mieux-vaut-prevenir-que-guerir-3582795
