@@ -32,7 +32,7 @@ Ce panorama des médecines alternatives à travers le prisme médiatique met en 
 ## Évolution et médiatisation de la médecine alternative : Analyse du pic de 2017 et comparaison des discours médiatiques
 ## Pic en 2017
 
-![Evolution médecine alternative](Nombre de notices publiées par années.svg)
+![Evolution médecine alternative]([Nombre de notices publiées par années.svg](https://raw.githubusercontent.com/thizirisaighi/Medecines-Alternatives/10079e3cab7178e462b2ca653e0cf284e9cbb27e/Nombre%20de%20notices%20publi%C3%A9es%20par%20ann%C3%A9es.svg))
 
 **La médecine alternative a connu plusieurs évolutions au fil des années. En effet, les recherches que nous avons menées nous ont permis d'observer les pics d'évolution les plus marquants dans la sphère médiatique. Parmi ceux-ci, l'année 2017 se démarque particulièrement. Nous avons donc entrepris des investigations dans et hors corpus, afin de comprendre les raisons de cette médiatisation plus importante à cette période. Bien entendu, plusieurs hypothèses ont été émises pour expliquer ce phénomène.**
 
