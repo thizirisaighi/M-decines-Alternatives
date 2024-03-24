@@ -42,7 +42,7 @@ La médecine alternative a connu plusieurs évolutions au fil des années. En ef
 2. L'augmentation du nombre de professionnels de la santé intégrant des pratiques alternatives dans leur approche thérapeutique pourrait répondre à une demande croissante de soins personnalisés et complémentaires.
  **Les raisons pourraient donc être les suivantes**
 - Loi "Ma Santé 2022" : Lancement du plan gouvernemental visant à promouvoir les médecines complémentaires et alternatives, dont la médecine douce, pour améliorer l'accès aux soins de santé.
-- Une étude de prévalence a révélé une augmentation du nombre de médecins généralistes ayant une formation complémentaire aux médecines alternatives et complémentaires, avec une proportion significative pratiquant l'homéopathie, l'ostéopathie, l'acupuncture et la mésothérapie
+- Une étude de prévalence a révélé une augmentation du nombre de médecins généralistes ayant une formation complémentaire aux médecines alternatives et complémentaires, avec une proportion significative pratiquant l'homéopathie, l'ostéopathie, l'acupuncture et la mésothérapie.
 - Des chercheurs de l'université Yale ont souligné les risques associés à l'utilisation exclusive de remèdes alternatifs pour traiter le cancer. Leur étude a montré que les patients optant uniquement pour des médecines alternatives avaient un risque de décès plus élevé que ceux suivant des traitements conventionnels.
 
 >> Sources : 
