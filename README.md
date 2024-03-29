@@ -3,10 +3,11 @@
 # Sommaire 
 1. [Introduction](#introduction)
 2. [Présentation du corpus](#Présentation-du-corpus-:)
-4. [Présentation des jours de pics de diffusion](#Présentation-des-jours-de-pics-de-diffusion-:)
-5. [Analyse visualisation des pics d’audience de diffusion d’émission tout au long de la journée](#Analyse-visualisation-des-pics-d’audience-de-diffusion-d’émission-tout-au-long-de-la-journée)
-6. [Corona Virus & les médecines Alternatives](Corona-Virus-&-les-médecines-Alternatives-:)
-7. [Conclusion](#Conclusion)
+3. [Présentation des jours de pics de diffusion](#Présentation-des-jours-de-pics-de-diffusion-:)
+4. [Analyse visualisation des pics d’audience de diffusion d’émission tout au long de la journée](#Analyse-visualisation-des-pics-d’audience-de-diffusion-d’émission-tout-au-long-de-la-journée)
+5. [Corona Virus & les médecines Alternatives](#Corona-Virus-&-les-médecines-Alternatives-:)
+6. [Conclusion](#Conclusion)
+   
 # Introduction
 
 Les médecines alternatives, regroupant une gamme diversifiée de pratiques thérapeutiques en dehors des normes médicales conventionnelles, ont captivé l'attention du public et des médias. De l'acupuncture à l'homéopathie, ces approches offrent des solutions holistiques pour traiter une variété de maux physiques et mentaux. Cependant, la représentation de ces médecines dans les médias suscite des interrogations quant à leur perception et leur intégration dans la société. Comment les médecines alternatives sont-elles présentées et discutées dans les médias, et quel impact cela a-t-il sur leur acceptation, leur usage et leur régulation ?
@@ -141,12 +142,12 @@ Programmes entre **22h-00h** : On observe une tendance chez TF1 à diffuser des 
 On remarque aussi des programmes le matin entre **8h et 10h** : ce sont en majorité des reportages. Ce sont des horaires où les gens ne sont pas susceptibles d’accorder une attention aux émissions puisque c’est le départ à l’école ou au travail. 
 
 
-# Corona Virus & les médecines Alternatives : 
+# Corona Virus & les médecines Alternatives :
 
 L'argument avancé lors du salon de Marseille, relayé par France 3, met en avant le rôle des médecines alternatives, telles que l'utilisation d'huiles essentielles, dans la prévention contre les microbes, les bactéries et les virus. Plus précisément, l'exemple cité est celui des huiles essentielles, qui sont présentées comme ayant la capacité de renforcer l'immunité de l'organisme.
 
 Les partisans de cette approche affirment que l'usage régulier d'huiles essentielles et de médecines alternatives en générale  peut contribuer à renforcer les défenses naturelles du corps, le rendant ainsi moins susceptible d'être infecté par des agents pathogènes tels que les virus, y compris le coronavirus. Cette perspective repose sur l'idée que certaines huiles essentielles possèdent des propriétés antimicrobiennes et antivirales qui peuvent aider à protéger contre les infections.
 
-#Conclusion
+# Conclusion
 
 
