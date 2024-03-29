@@ -3,10 +3,13 @@
 # Sommaire 
 1. [Introduction](#introduction)
 2. [Présentation du corpus](#Présentation-du-corpus-:)
-3. [Présentation des jours de pics de diffusion](#Présentation-des-jours-de-pics-de-diffusion-:)
-4. [Analyse visualisation des pics d’audience de diffusion d’émission tout au long de la journée](#Analyse-visualisation-des-pics-d’audience-de-diffusion-d’émission-tout-au-long-de-la-journée)
-5. [Corona Virus & les médecines Alternatives](#Corona-Virus-&-les-médecines-Alternatives-:)
-6. [Conclusion](#Conclusion)
+3. [Exploration des Médecines Alternatives à travers le Prisme Médiatique : Diversité, Promotion et Controverse](#Exploration-des-Médecines-Alternatives-à-travers-le-Prisme-Médiatique-:-Diversité,-Promotion-et-Controverse)
+4. [Évolution et médiatisation de la médecine alternative : Analyse du pic de 2017 et comparaison des discours médiatiques](Évolution-et-médiatisation-de-la-médecine-alternative-: Analyse-du-pic-de-2017-et-comparaison-des-discours-médiatiques)
+5. [Comparaison des discours médiatiques avant et après les années 2000](Comparaison-des-discours-médiatiques-avant-et-après-les-années-2000)
+6. [Présentation des jours de pics de diffusion](#Présentation-des-jours-de-pics-de-diffusion-:)
+7. [Analyse visualisation des pics d’audience de diffusion d’émission tout au long de la journée](#Analyse-visualisation-des-pics-d’audience-de-diffusion-d’émission-tout-au-long-de-la-journée)
+8. [Corona Virus & les médecines Alternatives](#Corona-Virus-&-les-médecines-Alternatives-:)
+9. [Conclusion](#Conclusion)
    
 # Introduction
 
@@ -39,7 +42,7 @@ Ce panorama des médecines alternatives à travers le prisme médiatique met en 
 
 ## Évolution et médiatisation de la médecine alternative : Analyse du pic de 2017 et comparaison des discours médiatiques
 
-## Pic en 2017
+## Point culminant en 2017
 
 ![Nombre de notices publiées par années.svg](https://raw.githubusercontent.com/thizirisaighi/Medecines-Alternatives/10079e3cab7178e462b2ca653e0cf284e9cbb27e/Nombre%20de%20notices%20publi%C3%A9es%20par%20ann%C3%A9es.svg)
 
