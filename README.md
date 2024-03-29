@@ -1,5 +1,12 @@
 # Médecines Alternatives sous les Projecteurs : Évolution, Perceptions et Cadre Réglementaire (1965-2023)
 
+# Sommaire 
+1. [Introduction](#introduction)
+2. [Présentation du corpus](#Présentation-du-corpus-:)
+4. [Présentation des jours de pics de diffusion](#Présentation-des-jours-de-pics-de-diffusion-:)
+5. [Analyse visualisation des pics d’audience de diffusion d’émission tout au long de la journée](#Analyse-visualisation-des-pics-d’audience-de-diffusion-d’émission-tout-au-long-de-la-journée)
+6. [Corona Virus & les médecines Alternatives](Corona-Virus-&-les-médecines-Alternatives-:)
+7. [Conclusion](#Conclusion)
 # Introduction
 
 Les médecines alternatives, regroupant une gamme diversifiée de pratiques thérapeutiques en dehors des normes médicales conventionnelles, ont captivé l'attention du public et des médias. De l'acupuncture à l'homéopathie, ces approches offrent des solutions holistiques pour traiter une variété de maux physiques et mentaux. Cependant, la représentation de ces médecines dans les médias suscite des interrogations quant à leur perception et leur intégration dans la société. Comment les médecines alternatives sont-elles présentées et discutées dans les médias, et quel impact cela a-t-il sur leur acceptation, leur usage et leur régulation ?
@@ -45,10 +52,10 @@ La médecine alternative a connu plusieurs évolutions au fil des années. En ef
 - Une étude de prévalence a révélé une augmentation du nombre de médecins généralistes ayant une formation complémentaire aux médecines alternatives et complémentaires, avec une proportion significative pratiquant l'homéopathie, l'ostéopathie, l'acupuncture et la mésothérapie.
 - Des chercheurs de l'université Yale ont souligné les risques associés à l'utilisation exclusive de remèdes alternatifs pour traiter le cancer. Leur étude a montré que les patients optant uniquement pour des médecines alternatives avaient un risque de décès plus élevé que ceux suivant des traitements conventionnels.
 
->> Sources : 
->> https://www.radiofrance.fr/franceculture/podcasts/la-science-cqfd/medecines-alternatives-mieux-vaut-prevenir-que-guerir-3582795
->> https://www.cairn.info/revue-hegel-2017-1-page-93.htm
->> https://www.lepoint.fr/sante/cancer-les-medecines-alternatives-augmentent-le-risque-de-deces-18-08-2017-2150887_40.php
+>> Sources :
+>> [Radio France](https://www.radiofrance.fr/franceculture/podcasts/la-science-cqfd/medecines-alternatives-mieux-vaut-prevenir-que-guerir-3582795)
+>> [Cairn](https://www.cairn.info/revue-hegel-2017-1-page-93.htm)
+>> [Le Point](https://www.lepoint.fr/sante/cancer-les-medecines-alternatives-augmentent-le-risque-de-deces-18-08-2017-2150887_40.php)
 
 Nous avons également observé, à travers ce graphique deux grands pics, avant et après les années 2000, représentant une évolution des discussions autour de la médecine alternative. Au début des années 1900, cet aspect de la médecine suscitait un intérêt limité dans les médias, avec peu de contenu lui étant spécifiquement consacré. Cependant, au fur et à mesure que les décennies ont avancé, l'intérêt pour cette branche non conventionnelle de la médecine a progressivement augmenté.
 
@@ -111,9 +118,9 @@ Suivant le précédent graphique, on peut souligner également à travers ce gra
 
 - **L'ancrage dans l'actualité** : on va privilégier des informations qui se passent sur le moment comme le cas du déremboursement total de l'homéopathie en 2021.
 
-Source : https://www.gouvernement.fr/actualite/deremboursement-des-medicaments-homeopathiques#:~:text=Ce%20contenu%20a%20%C3%A9t%C3%A9%20publi%C3%A9,du%20Premier%20ministre%2C%20%C3%89douard%20Philippe.&text=Les%20m%C3%A9dicaments%20hom%C3%A9opathiques%20ne%20seront,compter%20du%201er%20janvier%202021.
+Source : [Le site du gouvernement](https://www.gouvernement.fr/actualite/deremboursement-des-medicaments-homeopathiques#:~:text=Ce%20contenu%20a%20%C3%A9t%C3%A9%20publi%C3%A9,du%20Premier%20ministre%2C%20%C3%89douard%20Philippe.&text=Les%20m%C3%A9dicaments%20hom%C3%A9opathiques%20ne%20seront,compter%20du%201er%20janvier%202021)
 
-- **Sujet qui suscite des bouleversements aux yeux du public** : On va privilégier des informations qui peuvent avoir des répercussions dans notre quotidien, par exemple la montée de médecins généralistes qui font des formations complémentaires dans la médecine alternative. Cela peut être intéressant puisque beaucoup de personnes pourraient être intéressés par ces médecines et pourraient en faire usage. 
+- **Sujet qui suscite des bouleversements aux yeux du public** : On va privilégier des informations qui peuvent avoir des répercussions dans notre quotidien, par exemple la montée de médecins généralistes qui font des formations complémentaires dans la médecine alternative. Cela peut être intéressant puisque beaucoup de personnes pourraient être intéressés par ces médecines et pourraient demander à en faire usage auprès de leur médecin traitant par exemple. 
 
 # Analyse visualisation des pics d’audience de diffusion d’émission tout au long de la journée
 
@@ -139,5 +146,7 @@ On remarque aussi des programmes le matin entre **8h et 10h** : ce sont en major
 L'argument avancé lors du salon de Marseille, relayé par France 3, met en avant le rôle des médecines alternatives, telles que l'utilisation d'huiles essentielles, dans la prévention contre les microbes, les bactéries et les virus. Plus précisément, l'exemple cité est celui des huiles essentielles, qui sont présentées comme ayant la capacité de renforcer l'immunité de l'organisme.
 
 Les partisans de cette approche affirment que l'usage régulier d'huiles essentielles et de médecines alternatives en générale  peut contribuer à renforcer les défenses naturelles du corps, le rendant ainsi moins susceptible d'être infecté par des agents pathogènes tels que les virus, y compris le coronavirus. Cette perspective repose sur l'idée que certaines huiles essentielles possèdent des propriétés antimicrobiennes et antivirales qui peuvent aider à protéger contre les infections.
+
+#Conclusion
 
 
