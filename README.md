@@ -1,6 +1,7 @@
 # Médecines Alternatives sous les Projecteurs : Évolution, Perceptions et Cadre Réglementaire (1965-2023)
 
 Réalisé par ADEBAYO Nadiat, BOUAZIZ Souhila, FARID Noureen, MOHAMED Kaouthar, SAIGHI Thiziri
+
 Sous la direction de Dario Compagno et Fabrizio Defilippi
 
 # Sommaire 
