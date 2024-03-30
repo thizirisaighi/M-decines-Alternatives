@@ -4,7 +4,7 @@
 1. [Introduction](#introduction)
 2. [Présentation du corpus](#Présentation-du-corpus-:)
 3. [Exploration des Médecines Alternatives à travers le Prisme Médiatique : Diversité, Promotion et Controverse](#Exploration-des-Médecines-Alternatives-à-travers-le-Prisme-Médiatique-:-Diversité,-Promotion-et-Controverse)
-4. [Évolution et médiatisation de la médecine alternative : Analyse du pic de 2017 et comparaison des discours médiatiques](Évolution-et-médiatisation-de-la-médecine-alternative-: Analyse-du-pic-de-2017-et-comparaison-des-discours-médiatiques)
+4. [Évolution et médiatisation de la médecine alternative : Analyse des pics et comparaison des discours médiatiques](Évolution-et-médiatisation-de-la-médecine-alternative-: Analyse-du-pic-de-2017-et-comparaison-des-discours-médiatiques)
 5. [Présentation des jours de pics de diffusion](#Présentation-des-jours-de-pics-de-diffusion-:)
 6. [Analyse visualisation des pics d’audience de diffusion d’émission tout au long de la journée](#Analyse-visualisation-des-pics-d’audience-de-diffusion-d’émission-tout-au-long-de-la-journée)
 7. [Corona Virus & les médecines Alternatives](#Corona-Virus-&-les-médecines-Alternatives-:)
@@ -41,7 +41,7 @@ Ce panorama des médecines alternatives à travers le prisme médiatique met en 
 
 ## Évolution et médiatisation de la médecine alternative : Analyse du pic de 2017 et comparaison des discours médiatiques
 
-## Point culminant en 2017
+## Points culminants 
 
 ![Nombre de notices publiées par années.svg](https://raw.githubusercontent.com/thizirisaighi/Medecines-Alternatives/10079e3cab7178e462b2ca653e0cf284e9cbb27e/Nombre%20de%20notices%20publi%C3%A9es%20par%20ann%C3%A9es.svg)
 
@@ -50,7 +50,7 @@ La médecine alternative a connu plusieurs évolutions au fil des années. En ef
 **Les  hypothèses sur ce pic sont les suivantes ;**
 1. L'intérêt croissant pour les médecines alternatives en France pourrait être attribuable à une recherche croissante de solutions de santé naturelles et holistiques.
 2. L'augmentation du nombre de professionnels de la santé intégrant des pratiques alternatives dans leur approche thérapeutique pourrait répondre à une demande croissante de soins personnalisés et complémentaires.
- **Les raisons pourraient donc être les suivantes**
+ **Les raisons identifiées relatives à cette période sont les suivantes**
 - Loi "Ma Santé 2022" : Lancement du plan gouvernemental visant à promouvoir les médecines complémentaires et alternatives, dont la médecine douce, pour améliorer l'accès aux soins de santé.
 - Une étude de prévalence a révélé une augmentation du nombre de médecins généralistes ayant une formation complémentaire aux médecines alternatives et complémentaires, avec une proportion significative pratiquant l'homéopathie, l'ostéopathie, l'acupuncture et la mésothérapie.
 - Des chercheurs de l'université Yale ont souligné les risques associés à l'utilisation exclusive de remèdes alternatifs pour traiter le cancer. Leur étude a montré que les patients optant uniquement pour des médecines alternatives avaient un risque de décès plus élevé que ceux suivant des traitements conventionnels.
@@ -59,6 +59,11 @@ La médecine alternative a connu plusieurs évolutions au fil des années. En ef
 >> [Radio France](https://www.radiofrance.fr/franceculture/podcasts/la-science-cqfd/medecines-alternatives-mieux-vaut-prevenir-que-guerir-3582795)
 >> [Cairn](https://www.cairn.info/revue-hegel-2017-1-page-93.htm)
 >> [Le Point](https://www.lepoint.fr/sante/cancer-les-medecines-alternatives-augmentent-le-risque-de-deces-18-08-2017-2150887_40.php)
+
+Outre ce point culminant de 2017, l'image présente d'autres tendances que nous avons tentés d'élucider. En effet,  en 2006, les principaux sujets abordés concernant la médecine alternative étaient liés à l'épidémie de Chikungunya, où cette médecine était perçue comme un moyen de lutter contre la propagation de ce virus. En 2019, la sphère médiatique a été dominée par des sujets liés à la sécurité sociale notamment à la prise en charge de la médecine alternative notamment au sujet concernant le remboursement et le déremboursement des séances d’homéopathies autrefois remboursés à hauteur de 30% jusqu’à la suspension en 2019. Ce sujet a fait l’objet d’une controverse et suscité un vif intérêt de la part des médias.
+
+En 2019 on observe une émergence des sujets plutôt liés à la sécurité sociale notamment à la prise en charge de la médecine alternative donc au sujet concernant le remboursement et le déremboursement des séances d’homéopathies autrefois remboursés à hauteur de 30% jusqu’à la suspension en 2019. Ce sujet a fait l’objet d’une controverse et suscité l’intérêt des médias; 
+
 
 Nous avons également observé, à travers ce graphique deux grands pics, avant et après les années 2000, représentant une évolution des discussions autour de la médecine alternative. Au début des années 1900, cet aspect de la médecine suscitait un intérêt limité dans les médias, avec peu de contenu lui étant spécifiquement consacré. Cependant, au fur et à mesure que les décennies ont avancé, l'intérêt pour cette branche non conventionnelle de la médecine a progressivement augmenté.
 
