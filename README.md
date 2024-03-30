@@ -159,7 +159,7 @@ L'analyse des discours médiatiques nous a révéler divers tendances clés. Ava
 
 D’un autre côté, l'analyse des pics de diffusion d'émissions sur la médecine alternative nous a démontré un intérêt croissant du public pour ce domaine, malgré les controverses entourant sa légitimité. Les médias choisissent des créneaux horaires stratégiques pour maximiser leur audience, en visant parfois des populations spécifiques selon le type de l’émission. 
 
-Finalement, un autre évènement qui a contribué à la mise en lumière de la petinence de la médecine alternative était la pandémie de coronavirus, ayant joué un rôle dans le renforcement de l’immunité et des défenses naturelles du corps. 
+Finalement, un autre évènement qui a contribué à la mise en lumière de la pertinence de la médecine alternative était la pandémie de coronavirus, ayant joué un rôle dans le renforcement de l’immunité et des défenses naturelles du corps. 
 
 Pour conclure, nous avons pu voir que la médecine alternative a fait partie d’un discours médiatique en évolution constante au fil des décennies, reflétant ainsi des transformations sociétales, politiques et scientifiques. 
 
