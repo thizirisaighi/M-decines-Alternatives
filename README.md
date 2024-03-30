@@ -5,11 +5,10 @@
 2. [Présentation du corpus](#Présentation-du-corpus-:)
 3. [Exploration des Médecines Alternatives à travers le Prisme Médiatique : Diversité, Promotion et Controverse](#Exploration-des-Médecines-Alternatives-à-travers-le-Prisme-Médiatique-:-Diversité,-Promotion-et-Controverse)
 4. [Évolution et médiatisation de la médecine alternative : Analyse du pic de 2017 et comparaison des discours médiatiques](Évolution-et-médiatisation-de-la-médecine-alternative-: Analyse-du-pic-de-2017-et-comparaison-des-discours-médiatiques)
-5. [Comparaison des discours médiatiques avant et après les années 2000](Comparaison-des-discours-médiatiques-avant-et-après-les-années-2000)
-6. [Présentation des jours de pics de diffusion](#Présentation-des-jours-de-pics-de-diffusion-:)
-7. [Analyse visualisation des pics d’audience de diffusion d’émission tout au long de la journée](#Analyse-visualisation-des-pics-d’audience-de-diffusion-d’émission-tout-au-long-de-la-journée)
-8. [Corona Virus & les médecines Alternatives](#Corona-Virus-&-les-médecines-Alternatives-:)
-9. [Conclusion](#Conclusion)
+5. [Présentation des jours de pics de diffusion](#Présentation-des-jours-de-pics-de-diffusion-:)
+6. [Analyse visualisation des pics d’audience de diffusion d’émission tout au long de la journée](#Analyse-visualisation-des-pics-d’audience-de-diffusion-d’émission-tout-au-long-de-la-journée)
+7. [Corona Virus & les médecines Alternatives](#Corona-Virus-&-les-médecines-Alternatives-:)
+8. [Conclusion](#Conclusion)
    
 # Introduction
 
