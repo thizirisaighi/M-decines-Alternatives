@@ -1,5 +1,7 @@
 # Médecines Alternatives sous les Projecteurs : Évolution, Perceptions et Cadre Réglementaire (1965-2023)
 
+Réalisé par ADEBAYO Nadiat, BOUAZIZ Souhila, FARID Noureen, MOHAMED Kaouthar, SAIGHI Thiziri
+
 # Sommaire 
 1. [Introduction](#introduction)
 2. [Présentation du corpus](#Présentation-du-corpus-:)
